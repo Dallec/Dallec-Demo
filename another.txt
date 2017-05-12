@@ -1,0 +1,1 @@
+Another new text file, new text after adding in git
